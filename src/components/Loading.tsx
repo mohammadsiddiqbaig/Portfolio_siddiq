@@ -60,11 +60,14 @@ const Loading = ({ percent }: { percent: number }) => {
         </div>
       </div>
       <div className="loading-screen">
-        <div className="loading-marquee">
+        {/* <div className="loading-marquee">
           <Marquee>
             <span> A Creative Developer</span> <span>A Creative Designer</span>
             <span> A Creative Developer</span> <span>A Creative Designer</span>
           </Marquee>
+        </div>*/}
+        <div className="loading-marquee">
+          <p>Loading...</p>
         </div>
         <div
           className={`loading-wrap ${clicked && "loading-clicked"}`}

@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Diploma in Computer Science</h4>
+                <h5>Loyola Institute of Tech & Mgmt</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2021 - 2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Completed Diploma in Computer Science with a CGPA of 7.6. Studied software design, object-oriented programming, data structures, and database principles.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Frontend Developer Intern</h4>
+                <h5>Techyfy</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Developed and maintained responsive user interfaces using HTML5, CSS3, JavaScript, and React.js. Engineered reusable React components, custom hooks, and integrated views with RESTful APIs using fetch and Axios.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Full Stack Web Developer</h4>
+                <h5>Self-Initiated Projects</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>PRESENT</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Architecting and building full-featured web applications using MongoDB, Express.js, React.js, and Node.js. Implementing secure authentication (JWT/bcrypt), designing RESTful APIs, and writing clean, maintainable code.
             </p>
           </div>
         </div>
